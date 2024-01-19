@@ -1,0 +1,21 @@
+.bloqueSuperior {
+    border: solid;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0px;
+  }
+  
+  .elementoTitu {
+    display: inline-block;
+    padding: 10px;
+    vertical-align: middle;
+  }
+  
+  .textoTitu {
+    font-size: 40px;
+  }
+  
+  .logoTitu {
+    height: 85px;
+  }
+  
