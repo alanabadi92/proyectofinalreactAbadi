@@ -7,12 +7,12 @@ import productos from "../data/asyncMock";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_APIKEY,
-  authDomain:import.meta.env.VITE_FIREBASE_AUTHDOMAIN ,
-  projectId: import.meta.env.VITE_FIREBASE_PROJECTID,
-  storageBucket: import.meta.env.VITE_FIREBASE_STORAGEBUCKET,
-  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGINGSENDERID,
-  appId: import.meta.env.VITE_FIREBASE_APPID
+  apiKey: "AIzaSyCZuu3YiTVi58RnS9DXobc4lIOryX-L4xg",
+  authDomain: "proyectofinalabadi.firebaseapp.com",
+  projectId: "proyectofinalabadi",
+  storageBucket: "proyectofinalabadi.appspot.com",
+  messagingSenderId: "627147640104",
+  appId: "1:627147640104:web:839ef497fa5fa9db3a541d"
 };
 
 console.log('se conecto Firebase')
